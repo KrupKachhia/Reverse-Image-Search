@@ -1,0 +1,341 @@
+@keyframes bgcolorchange 
+{
+    0% 
+    {
+        background-color: red;
+    }
+                            
+    25% 
+    {
+        background-color: green;
+    }
+                            
+    50% 
+    {
+        background-color: yellow;
+    }
+                            
+     75% 
+    {
+        background-color: pink;
+    }
+                            
+    100% 
+    {
+        background-color: orange;
+    } 
+}
+                        
+@-webkit-keyframes bgcolorchange 
+{
+    0%   {background: red;}
+    25%  {background: yellow;}
+    50%  {background: orange;}
+    75%  {background: green;}
+    100% {background: pink;}
+}
+ 
+                              
+.block-container.css-z5fcl4.egzxvld4
+{
+   -webkit-animation: bgcolorchange 5s infinite; /* Chrome, Safari, Opera */ 
+    animation: 5s infinite bgcolorchange;
+    align-content:center; 
+}
+                        
+.css-18ni7ap.e8zbici2
+{
+    visibility: hidden;
+}
+
+.css-164nlkn.egzxvld1
+{
+    display: none;
+}
+                        
+h2
+{
+    text-align: center;
+    font-family:math;
+    color: Gray; 
+    font-size: 30px;
+    padding: 0;
+    margin-bottom: 8px;
+    font-weigth: bolder;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.stAlert.success 
+{
+    background-color: #D4EDDA;
+    border: 1.5px;
+    border-style: solid;
+    border-color: black;
+    color: Blue;
+    padding: 2px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    border-radius: 5px;
+    font-family: Space Grotesk;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    box-shadow: 2.5px 3px 2.5px gray
+    width: 100%
+}
+
+.sidebar .sidebar-title
+{
+    font-size: 24px;
+    font-weight: bolder;
+    color: green;
+}
+
+hr
+{
+    margin: 0;
+    padding: 0;
+    border-width:2px;
+    border-color:blue;
+}
+                        
+.element-container.css-lnx6n4.e1tzin5v3
+{
+    
+    height: 60%;
+    width: 60%;
+}
+
+.h1_style{
+    text-align: center;
+    font-family:"Arial, Helvetica, Verdana, Georgia, Times New Roman, Open Sans, Roboto";
+    color: #563f46; 
+    font-size: 48px;
+    padding: 0;
+    margin-bottom: 8px;
+    font-weigth: bolder;
+    text-shadow: 2px 2px 2px gray;
+    background-color: #c8c3cc;
+    border-style: solid;
+    box-shadow: 2.5px 3px 2.5px gray
+    border-color:black;
+    border-width:2px;
+    border-radius: 5px;
+    
+}
+
+
+img
+{
+    border: 2px;
+    background: border-box;
+    border-style: solid;
+    border-color: black;
+    border-radius: 6px;
+    box-shadow: 2.5px 3px 2.5px gray
+}
+
+iframe 
+{
+    border: 2px;
+    width: 100%; 
+    align-item: center;
+    border-style: solid;
+    border-color: black;
+    border-radius: 6px;
+    box-shadow: 2.5px 3px 2.5px gray
+}
+
+section
+{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 2.5px;
+    margin: 5px;
+    border-color: black;
+    box-shadow: 2.5px 3px 2.5px gray;
+}
+
+.stTextInput
+{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 6px;
+    border-color: black;
+    box-shadow: 2.5px 3px 2.5px gray;
+}
+
+.stTextInput input
+{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 6px;
+    border-color: black;
+    box-shadow: 2.5px 3px 2.5px gray;
+}
+        
+.stAppViewContainer
+{
+    background-color:#D4EDDA;
+}
+
+
+label div p
+{
+    font-style:italic;
+    font-weight: bold;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 4px;
+    border-color: black;
+    box-shadow: 2.5px 3px 2.5px gray;
+}
+
+.row-widget
+{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 2px;
+    border-color: black;
+    box-shadow: 2.5px 3px 2.5px gray;
+}
+
+.css-ocqkz7.e1tzin5v4
+{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.css-fis6aj.exg6vvm10
+{
+    display: none;
+}
+        
+.stMarkdown
+{
+    width: 512;
+    height: 512;
+}feature()
+
+{
+    background-color: #D4EDDA;
+    border: 1.5px;
+    border-style: solid;
+    border-color: black;
+    color: Blue;
+    padding: 2px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    border-radius: 5px;
+    font-family: Space Grotesk;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    box-shadow: 2.5px 3px 2.5px gray
+}
+
+.stAlert.info 
+{
+    background-color: #d1ecf1;
+    color: #333333;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    # font-weight: bold;
+    border-radius: 5px;
+    font-family: Roboto;
+    padding: 5px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    box-shadow: 2.5px 3px 2.5px gray
+}
+
+.row-widget.stButton
+{
+    border: none;
+    box-shadow: none;
+    color: green;
+    height: 100px;
+    font-size: 24px;
+
+}
+
+.css-1kyxreq.etr89bj2
+{
+    align-content: center;
+    justify-content: center
+}
+
+.row-widget.stButton 
+{
+    border: none;
+    box-shadow: none;
+    color: green;
+    height: 330px;
+    font-size: 24px;
+    display: flex;
+    align-items: end;
+    justify-content: flex-end;
+    align-items: end;
+}
+
+.stAlert.success12 {
+    background-color: #D4EDDA;
+    border: 1.5px;
+    border-style: solid;
+    border-color: black;
+    color: Blue;
+    padding: 2px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    box-shadow: 2.5px 3px 2.5px gray;
+}
+
+.abc{
+    font-family: cursive;
+    display: flex;
+    margin-bottom: -1rem;
+    align-items: center;
+    justify-content: center;
+}
+        
+.css-fblp2m {
+    vertical-align: middle;
+    overflow: hidden;
+    border-radius: 50%;
+    color: white;
+    fill: currentcolor;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    background-color: black;
+}
+            
+.about
+{
+    text-align: justify;
+    border: 1px;
+    border-style: dashed;
+    padding: 10px;
+    background: #c7d3f1e8;
+    border-radius: 10px;
+}
