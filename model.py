@@ -1,6 +1,7 @@
 from libraries import *
 from config import *
 
+
 def models():
     model=ResNet50(weights='imagenet',
                    include_top=False,
