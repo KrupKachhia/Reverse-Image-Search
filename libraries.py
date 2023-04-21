@@ -50,7 +50,7 @@ import gc
 
 # Data Visualization
     # Import the pyplot module from the matplotlib library and alias it as 'plt' for data visualization
-import matplotlib.pyplot as plt  
+#import matplotlib.pyplot as plt  
 
     # Import the image module from the matplotlib library and alias it as 'mpimg' for working with images
 import matplotlib.image as mpimg 
