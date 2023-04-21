@@ -38,22 +38,22 @@ import gc
 
 # Progress Bars
     # Import the tqdm module for displaying progress bars during long-running computations
-#from tqdm import tqdm        
+from tqdm import tqdm        
 
 
 
 # Parallel Computing and Caching
     # Import the joblib library and alias it as 'pickle' for parallel computing and caching
-#import joblib as pickle      
+import joblib as pickle      
 
 
 
 # Data Visualization
     # Import the pyplot module from the matplotlib library and alias it as 'plt' for data visualization
-#import matplotlib.pyplot as plt  
+import matplotlib.pyplot as plt  
 
     # Import the image module from the matplotlib library and alias it as 'mpimg' for working with images
-#import matplotlib.image as mpimg 
+import matplotlib.image as mpimg 
 
 
 
