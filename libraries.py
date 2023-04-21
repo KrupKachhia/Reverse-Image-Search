@@ -53,7 +53,7 @@ import gc
 #import matplotlib.pyplot as plt  
 
     # Import the image module from the matplotlib library and alias it as 'mpimg' for working with images
-import matplotlib.image as mpimg 
+#import matplotlib.image as mpimg 
 
 
 
